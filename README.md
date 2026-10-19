@@ -159,6 +159,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [Combot](https://combot.org/) - Analytics and moderation for Telegram groups.
 - [Group Butler](https://github.com/group-butler/GroupButler) - Open source Lua-based group management bot.
 - [OmniGest](https://t.me/OmniGest_bot) - Free all-in-one group management bot with anti-spam, captcha, AI moderation, and custom commands.
+- [OpenSparta](https://opensparta.com/en) - Telegram workspace for audience discovery, account and proxy management, and engagement workflows.
 
 ## Utility Bots
 
